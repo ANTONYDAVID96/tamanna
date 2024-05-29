@@ -7,7 +7,7 @@ trigger:
 - demo
 
 pool:
-  vmImage: window-latest
+  vmImage: windows-latest
 
 steps:
 - task: ArchiveFiles@2
