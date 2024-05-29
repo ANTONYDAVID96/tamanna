@@ -7,7 +7,7 @@ trigger:
 - demo
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: window-latest
 
 steps:
 - task: ArchiveFiles@2
